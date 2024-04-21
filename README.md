@@ -1,2 +1,2 @@
 # Automation Tools
-Sorts your lists in either ascending or descending order
+This repository is for automation tools created my me and me only. Test them out and feel free to tell me what I can work on.
